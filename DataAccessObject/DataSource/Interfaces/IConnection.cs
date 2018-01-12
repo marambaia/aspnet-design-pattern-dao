@@ -5,7 +5,7 @@ using System.Text;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace WebPatterns.DataSource.Interfaces
+namespace DataAccessObject.DataSource.Interfaces
 {
     public interface IConnection : IDisposable
     {

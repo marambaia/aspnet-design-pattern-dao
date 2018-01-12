@@ -1,0 +1,8 @@
+C:\Users\Bernardo\Documents\Projects\Sources\aspnet-design-pattern-dao\WebPatterns\bin\WebPatterns.dll
+C:\Users\Bernardo\Documents\Projects\Sources\aspnet-design-pattern-dao\WebPatterns\bin\WebPatterns.pdb
+C:\Users\Bernardo\Documents\Projects\Sources\aspnet-design-pattern-dao\WebPatterns\obj\Debug\WebPatterns.dll
+C:\Users\Bernardo\Documents\Projects\Sources\aspnet-design-pattern-dao\WebPatterns\obj\Debug\WebPatterns.pdb
+C:\Users\Bernardo\Documents\Projects\Sources\aspnet-design-pattern-dao\DataAccessObject\bin\dao.dll
+C:\Users\Bernardo\Documents\Projects\Sources\aspnet-design-pattern-dao\DataAccessObject\bin\dao.pdb
+C:\Users\Bernardo\Documents\Projects\Sources\aspnet-design-pattern-dao\DataAccessObject\obj\Debug\dao.dll
+C:\Users\Bernardo\Documents\Projects\Sources\aspnet-design-pattern-dao\DataAccessObject\obj\Debug\dao.pdb

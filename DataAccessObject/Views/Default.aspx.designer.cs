@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebPatterns.Views {
+namespace DataAccessObject.Views {
     
     
     public partial class Default {

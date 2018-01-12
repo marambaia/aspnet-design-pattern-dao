@@ -2,11 +2,11 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Collections.ObjectModel;
-using WebPatterns.DAO;
-using WebPatterns.DAO.Interfaces;
-using WebPatterns.Entities;
+using DataAccessObject.DAO;
+using DataAccessObject.DAO.Interfaces;
+using DataAccessObject.Entities;
 
-namespace WebPatterns.Business
+namespace DataAccessObject.Business
 {
     public class Films
     {

@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using WebPatterns.Entities;
-using WebPatterns.Business;
+using DataAccessObject.Entities;
+using DataAccessObject.Business;
 
-namespace WebPatterns.Views
+namespace DataAccessObject.Views
 {
     public partial class Default : System.Web.UI.Page
     {

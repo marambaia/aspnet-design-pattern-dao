@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebPatterns.Views.Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="DataAccessObject.Views.Default" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -37,8 +37,8 @@
         </div>
         <div style="margin: 10px;">
             <asp:ObjectDataSource ID="DataSourceFilms" runat="server" 
-                DataObjectTypeName="WebPatterns.Entities.Film" DeleteMethod="Delete" 
-                SelectMethod="List" TypeName="WebPatterns.Business.Films"></asp:ObjectDataSource>
+                DataObjectTypeName="DataAccessObject.Entities.Film" DeleteMethod="Delete" 
+                SelectMethod="List" TypeName="DataAccessObject.Business.Films"></asp:ObjectDataSource>
             <asp:GridView ID="gvFilms" runat="server" CellPadding="4" ForeColor="#333333" 
                 GridLines="None" Width="100%" AllowPaging="True" 
                 AutoGenerateColumns="False" DataKeyNames="id" DataSourceID="DataSourceFilms">

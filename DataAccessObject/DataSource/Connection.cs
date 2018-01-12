@@ -4,9 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Data;
 using System.Data.SqlClient;
-using WebPatterns.DataSource.Interfaces;
+using DataAccessObject.DataSource.Interfaces;
 
-namespace WebPatterns.DataSource
+namespace DataAccessObject.DataSource
 {
     public class Connection : IConnection, IDisposable
     {
@@ -14,7 +14,7 @@ namespace WebPatterns.DataSource
 
         public Connection()
         {
-            _connection = new SqlConnection("Data Source=localhost;User Id=sa;Password=Y0UR_PA$$W0RD;Initial Catalog=YOUR_DATABASE;Integrated Security=True");
+            _connection = new SqlConnection("Data Source=localhost;User Id=sa;Password=Strut76.01;Initial Catalog=Catalog;Integrated Security=True");
         }
 
         public SqlConnection Open()

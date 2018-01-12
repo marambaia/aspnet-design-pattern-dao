@@ -2,12 +2,12 @@
 using System.Data;
 using System.Data.SqlClient;
 using System.Collections.ObjectModel;
-using WebPatterns.DataSource.Interfaces;
-using WebPatterns.DataSource;
-using WebPatterns.DAO.Interfaces;
-using WebPatterns.Entities;
+using DataAccessObject.DataSource.Interfaces;
+using DataAccessObject.DataSource;
+using DataAccessObject.DAO.Interfaces;
+using DataAccessObject.Entities;
 
-namespace WebPatterns.DAO
+namespace DataAccessObject.DAO
 {
     public class FilmDAO : IDataAccessObject<Film>, IDisposable
     {

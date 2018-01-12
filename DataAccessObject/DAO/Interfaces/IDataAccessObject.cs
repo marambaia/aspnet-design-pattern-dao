@@ -2,7 +2,7 @@
 using System.Data;
 using System.Data.SqlClient;
 
-namespace WebPatterns.DAO.Interfaces
+namespace DataAccessObject.DAO.Interfaces
 {
     public interface IDataAccessObject<T> : IDisposable 
         where T: class, new()
