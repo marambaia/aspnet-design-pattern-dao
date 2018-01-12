@@ -1,0 +1,4 @@
+C:\Users\Bernardo\Documents\Projects\Sources\WebPatterns\WebPatterns\bin\WebPatterns.dll
+C:\Users\Bernardo\Documents\Projects\Sources\WebPatterns\WebPatterns\bin\WebPatterns.pdb
+C:\Users\Bernardo\Documents\Projects\Sources\WebPatterns\WebPatterns\obj\Debug\WebPatterns.dll
+C:\Users\Bernardo\Documents\Projects\Sources\WebPatterns\WebPatterns\obj\Debug\WebPatterns.pdb
