@@ -1,0 +1,4 @@
+*.suo
+dao.suo
+DataAccessObject/bin/*
+DataAccessObject/obj/*
